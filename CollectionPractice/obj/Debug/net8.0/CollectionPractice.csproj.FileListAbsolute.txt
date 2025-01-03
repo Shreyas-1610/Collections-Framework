@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\bin\Debug\net8.0\CollectionPractice.exe
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\bin\Debug\net8.0\CollectionPractice.deps.json
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\bin\Debug\net8.0\CollectionPractice.runtimeconfig.json
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\bin\Debug\net8.0\CollectionPractice.dll
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\bin\Debug\net8.0\CollectionPractice.pdb
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\CollectionPractice.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\CollectionPractice.AssemblyInfo.cs
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\CollectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\CollectionPractice.dll
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\refint\CollectionPractice.dll
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\CollectionPractice.pdb
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\CollectionPractice.genruntimeconfig.cache
+C:\Users\kshre\source\repos\CollectionPractice\CollectionPractice\obj\Debug\net8.0\ref\CollectionPractice.dll
