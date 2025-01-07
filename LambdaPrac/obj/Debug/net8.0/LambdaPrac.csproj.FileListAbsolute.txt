@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\bin\Debug\net8.0\LambdaPrac.exe
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\bin\Debug\net8.0\LambdaPrac.deps.json
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\bin\Debug\net8.0\LambdaPrac.runtimeconfig.json
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\bin\Debug\net8.0\LambdaPrac.dll
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\bin\Debug\net8.0\LambdaPrac.pdb
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\LambdaPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\LambdaPrac.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\LambdaPrac.AssemblyInfo.cs
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\LambdaPrac.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\LambdaPrac.dll
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\refint\LambdaPrac.dll
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\LambdaPrac.pdb
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\LambdaPrac.genruntimeconfig.cache
+C:\Users\kshre\source\repos\LambdaPrac\LambdaPrac\obj\Debug\net8.0\ref\LambdaPrac.dll
