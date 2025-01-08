@@ -87,10 +87,20 @@
             //    Console.WriteLine($"Dept:{emp.Dept} Name:{emp.Name}");
             //}
 
+            //thenbyDesc
+            var MethodThenByDesc = Employee.GetAllEmployees()
+            .Where(whr => whr.Dept == "IT")
+            .OrderByDescending(ord => ord.Salary)
+            .ThenByDescending(x => x.Name);  
+            //foreach(var item in MethodThenByDesc)
+            //{
+            //    Console.WriteLine($"{item.Dept} - {item.Salary} {item.Name}");
+            //}
+            
             //reverse
             var MethodRev = Employee.GetAllEmployees().Select(x=> x.Name).Reverse().ToList();
             var QueryRev = (from emp in Employee.GetAllEmployees() select emp.Salary).Reverse().ToList();
-            //foreach(var emp in QueryRev)
+            //foreach (var emp in QueryRev)
             //{
             //    Console.WriteLine(emp);
             //}
@@ -109,11 +119,59 @@
             var QuerySyntaxMax = (from emp in Employee.GetAllEmployees() select emp).Max(i => i.Salary);
             var QuerySyntaxMin = (from emp in Employee.GetAllEmployees() select emp).Min(emp => emp.Salary);
 
-            Console.WriteLine($"Highest Salary by Method:{MethodSyntaxMax}");
-            Console.WriteLine($"Lowest Salary by Method:{MethodSyntaxMin}");
+            //Console.WriteLine($"Highest Salary by Method:{MethodSyntaxMax}");
+            //Console.WriteLine($"Lowest Salary by Method:{MethodSyntaxMin}");
 
-            Console.WriteLine($"Highest Salary by Query:{QuerySyntaxMax}");
-            Console.WriteLine($"Lowest Salary by Query:{QuerySyntaxMin}");
+            //Console.WriteLine($"Highest Salary by Query:{QuerySyntaxMax}");
+            //Console.WriteLine($"Lowest Salary by Query:{QuerySyntaxMin}");
+
+            //all
+            var MethodAll = Employee.GetAllEmployees().All(emp => emp.Salary >= 15);
+            //if (MethodAll)
+            //{
+            //    Console.WriteLine("All have salary greater than 10");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("No");
+            //}
+
+            //ToDict
+            Dictionary<int, string> MethodDict = Employee.GetAllEmployees().ToDictionary(emp => emp.Id, emp => emp.Name);
+            //foreach(var item in MethodDict)
+            //{
+            //    Console.WriteLine($"Id:{item.Key} Name:{item.Value}");
+            //}
+
+            //sum
+            var MethodSum = Employee.GetAllEmployees().Where(whr => whr.Dept == "IT" && whr.Salary > 35).Sum(emp => emp.Salary);
+            //Console.WriteLine(MethodSum);
+
+            //skip
+            var MethodSkip = Employee.GetAllEmployees().Where(whr => whr.Dept == "IT").Skip(3).ToList();
+            //foreach(var item in MethodSkip)
+            //{
+            //    Console.WriteLine($"{item.Name}");
+            //}
+            //union
+            var MethodUnion = Employee.GetAllEmployees().Union(Employee.GetEmployees2()).ToList();
+            //foreach(var item in MethodUnion)
+            //{
+            //    Console.WriteLine($"Item: {item.Id}");
+            //}
+
+            //lookup
+            var MethodLook = Employee.GetAllEmployees().ToLookup(emp => emp.Salary > 25);
+            //foreach(var emp in MethodLook)
+            //{
+            //    Console.WriteLine($"{emp.Key}: {emp.Count()}");
+            //}
+
+            //intersect
+            var MethodInter = Employee.GetAllEmployees().Select(e=>e.Id).Intersect(Employee.GetEmployees2().Select(e=>e.Id)).ToList();
+            foreach (var emp in MethodInter) {
+                Console.WriteLine($"{emp}");
+            }
         }
     }
 }
