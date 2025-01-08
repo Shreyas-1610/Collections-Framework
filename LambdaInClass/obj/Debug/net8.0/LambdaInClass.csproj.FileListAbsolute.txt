@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\bin\Debug\net8.0\LambdaInClass.exe
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\bin\Debug\net8.0\LambdaInClass.deps.json
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\bin\Debug\net8.0\LambdaInClass.runtimeconfig.json
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\bin\Debug\net8.0\LambdaInClass.dll
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\bin\Debug\net8.0\LambdaInClass.pdb
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\LambdaInClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\LambdaInClass.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\LambdaInClass.AssemblyInfo.cs
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\LambdaInClass.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\LambdaInClass.dll
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\refint\LambdaInClass.dll
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\LambdaInClass.pdb
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\LambdaInClass.genruntimeconfig.cache
+C:\Users\kshre\source\repos\LambdaInClass\LambdaInClass\obj\Debug\net8.0\ref\LambdaInClass.dll
