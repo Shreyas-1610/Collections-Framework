@@ -30,5 +30,17 @@ namespace LambdaPrac
             };
             return list;
         }
+
+        public static List<Employee> GetEmployees2()
+        {
+            List<Employee> listEmployees = new List<Employee>()
+            {
+                new Employee{ Id = 1, Name = "ABC",Salary = 30, Dept = "IT"},
+                new Employee{ Id = 2, Name = "DEF",Salary = 40, Dept = "IT"},
+                new Employee{ Id = 3, Name = "GHI",Salary = 10, Dept = "Sales"},
+                new Employee{ Id = 4, Name = "JKL",Salary = 20, Dept = "Marketing"}
+            };
+            return listEmployees;
+        }
     }
 }
