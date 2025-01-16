@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\bin\Debug\net8.0\FileIOSess.exe
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\bin\Debug\net8.0\FileIOSess.deps.json
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\bin\Debug\net8.0\FileIOSess.runtimeconfig.json
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\bin\Debug\net8.0\FileIOSess.dll
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\bin\Debug\net8.0\FileIOSess.pdb
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\FileIOSess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\FileIOSess.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\FileIOSess.AssemblyInfo.cs
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\FileIOSess.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\FileIOSess.dll
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\refint\FileIOSess.dll
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\FileIOSess.pdb
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\FileIOSess.genruntimeconfig.cache
+C:\Users\kshre\source\repos\FileIOSess\FileIOSess\obj\Debug\net8.0\ref\FileIOSess.dll
